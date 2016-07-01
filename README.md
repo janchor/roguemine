@@ -1,5 +1,5 @@
 # roguemine
-RogueMine is a browser based rogue-like featuring robots.
+RogueMine is a browser based rogue-like featuring robot building.
 
 The purposes of this program are:
 1) to become familiar with GitHub
